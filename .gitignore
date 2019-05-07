@@ -1,0 +1,6 @@
+rebar.config
+rebar.lock
+_build/
+*.beam
+*.iml
+.idea/
